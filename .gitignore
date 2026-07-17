@@ -1,0 +1,5 @@
+# Generated context docs (regenerate with context.py)
+context.md
+context_sources.md
+context_tickets.md
+__pycache__/
